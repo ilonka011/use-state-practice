@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/use-state-practice/static/css/main.4022acd0.css",
+    "main.js": "/use-state-practice/static/js/main.7107c0d8.js",
+    "static/js/787.735f99f3.chunk.js": "/use-state-practice/static/js/787.735f99f3.chunk.js",
+    "index.html": "/use-state-practice/index.html",
+    "main.4022acd0.css.map": "/use-state-practice/static/css/main.4022acd0.css.map",
+    "main.7107c0d8.js.map": "/use-state-practice/static/js/main.7107c0d8.js.map",
+    "787.735f99f3.chunk.js.map": "/use-state-practice/static/js/787.735f99f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4022acd0.css",
+    "static/js/main.7107c0d8.js"
+  ]
+}
